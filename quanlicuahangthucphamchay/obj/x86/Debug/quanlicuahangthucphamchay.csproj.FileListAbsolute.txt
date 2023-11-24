@@ -1,0 +1,17 @@
+E:\code mướn\quanlicuahangthucphamchay\quanlicuahangthucphamchay\obj\x86\Debug\quanlicuahangthucphamchay.banhang.resources
+E:\code mướn\quanlicuahangthucphamchay\quanlicuahangthucphamchay\obj\x86\Debug\quanlicuahangthucphamchay.dangnhap.resources
+E:\code mướn\quanlicuahangthucphamchay\quanlicuahangthucphamchay\obj\x86\Debug\quanlicuahangthucphamchay.doimatkhau.resources
+E:\code mướn\quanlicuahangthucphamchay\quanlicuahangthucphamchay\obj\x86\Debug\quanlicuahangthucphamchay.Properties.Resources.resources
+E:\code mướn\quanlicuahangthucphamchay\quanlicuahangthucphamchay\obj\x86\Debug\quanlicuahangthucphamchay.quanlikho.resources
+E:\code mướn\quanlicuahangthucphamchay\quanlicuahangthucphamchay\obj\x86\Debug\quanlicuahangthucphamchay.sanpham.resources
+E:\code mướn\quanlicuahangthucphamchay\quanlicuahangthucphamchay\obj\x86\Debug\quanlicuahangthucphamchay.trangchu.resources
+E:\code mướn\quanlicuahangthucphamchay\quanlicuahangthucphamchay\obj\x86\Debug\quanlicuahangthucphamchay.csproj.GenerateResource.Cache
+E:\code mướn\quanlicuahangthucphamchay\quanlicuahangthucphamchay\bin\Debug\Database1.mdf
+E:\code mướn\quanlicuahangthucphamchay\quanlicuahangthucphamchay\bin\Debug\Database1_log.ldf
+E:\code mướn\quanlicuahangthucphamchay\quanlicuahangthucphamchay\bin\Debug\quanlicuahangthucphamchay.exe.config
+E:\code mướn\quanlicuahangthucphamchay\quanlicuahangthucphamchay\bin\Debug\quanlicuahangthucphamchay.exe
+E:\code mướn\quanlicuahangthucphamchay\quanlicuahangthucphamchay\bin\Debug\quanlicuahangthucphamchay.pdb
+E:\code mướn\quanlicuahangthucphamchay\quanlicuahangthucphamchay\obj\x86\Debug\quanlicuahangthucphamchay.exe
+E:\code mướn\quanlicuahangthucphamchay\quanlicuahangthucphamchay\obj\x86\Debug\quanlicuahangthucphamchay.pdb
+E:\code mướn\quanlicuahangthucphamchay\quanlicuahangthucphamchay\obj\x86\Debug\quanlicuahangthucphamchay.thongke.resources
+E:\code mướn\quanlicuahangthucphamchay\quanlicuahangthucphamchay\obj\x86\Debug\quanlicuahangthucphamchay.csprojResolveAssemblyReference.cache
